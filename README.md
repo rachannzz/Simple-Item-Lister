@@ -9,7 +9,7 @@ A web application for listing and managing items using simple knowledge of  DOM 
 
 - **Add Items**: Easily add new items to your list.
 - **Delete Items**: Remove items with a single click.
-- **SEARCH ITEMS **: Search item details .
+- **SEARCH ITEMS**: Search item details .
 - **Responsive Design**: Built with Bootstrap for a mobile-friendly experience.
 - **Simple and Intuitive**: No complex features, just a straightforward item lister.
 
@@ -28,7 +28,7 @@ A web application for listing and managing items using simple knowledge of  DOM 
 
 - **Adding Items**: Click the "Add Item" button, enter the item name, and click "Submit."
 - **Deleting Items**: Click the "Delete" button next to an item to remove it.
-- **Searching Items**: Click the "Search" button to search items"
+- **Searching Items**: Click the "Search" button to search items
 
 
 
